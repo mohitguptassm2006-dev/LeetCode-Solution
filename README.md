@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 ## Depth-First Search
 |  |
 | ------- |
