@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
 ## Array
 |  |
 | ------- |
