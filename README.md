@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Array
 |  |
 | ------- |
