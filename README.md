@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
