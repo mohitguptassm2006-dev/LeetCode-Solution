@@ -57,6 +57,6 @@ public:
             ans = (ans + sq[1]) % MOD;
         }
 
-        return ans;
+        return (int)ans;
     }
 };
