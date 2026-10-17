@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
@@ -155,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
