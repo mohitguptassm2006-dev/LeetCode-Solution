@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0503-next-greater-element-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,4 +174,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/mohitguptassm2006-dev/LeetCode-Solution/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
